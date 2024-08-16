@@ -1,0 +1,2 @@
+../Core/Src/freertos.c:86:6:MX_FREERTOS_Init	1
+../Core/Src/freertos.c:129:6:StartBlink01	1
